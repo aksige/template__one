@@ -1,1 +1,1 @@
-[ref website](https://github.com/aksige/template__one)
+[ref website](https://aksige.github.io/template__one/)
